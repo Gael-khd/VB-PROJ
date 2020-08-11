@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\bin\Debug\GESTTION_des_HOTEL.exe.config
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\bin\Debug\GESTTION_des_HOTEL.exe
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\bin\Debug\GESTTION_des_HOTEL.pdb
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\bin\Debug\GESTTION_des_HOTEL.xml
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.Client.resources
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.Resources.resources
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.vbproj.GenerateResource.cache
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.exe
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.xml
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.pdb
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.Chambre.resources
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.Reservation.resources
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.menu.resources
+C:\Users\hp\source\repos\GESTTION_des_HOTEL\GESTTION_des_HOTEL\obj\Debug\GESTTION_des_HOTEL.vbprojAssemblyReference.cache

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GESTTION_des_HOTEL
+</name>
+</assembly>
+<members>
+<member name="T:GESTTION_des_HOTEL.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._01_search">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._01_search1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._01_search2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._108_1087676_close_remove_delete_exit_cross_cancel_trash_comments_close_button_icon_png">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._114903">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._1149031">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._160_512">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._160_5121">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._160_5122">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._169_1693285_icono_hotel_png_icono_de_hotel_png">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._46541333252967317f599aa2bac2dd6c">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._46541333252967317f599aa2bac2dd6c1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._799706_200">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources._new">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.b41452e16fe7470be31deacb7570bd3ePOJPOK">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.bedroom_icon_2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.Capture_backroud">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.Capture_backroud1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.Capture_backroud2">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.creative_process_briefing_512">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.creative_process_briefing_5121">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.creative_process_briefing_5122">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.DarkBlue_slice">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.live_reservation_message_753585">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.load_bottom_left_512">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.load_bottom_left_5121">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.maximize_icon_23">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.mountains_1920x1080_5k_4k_wallpaper_8k_lake_forest_12596">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:GESTTION_des_HOTEL.My.Resources.Resources.objects_16_512">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
